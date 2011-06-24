@@ -1,0 +1,6 @@
+*.iml
+.DS_Store
+target/
+.idea/
+release.properties
+pom.xml.*
